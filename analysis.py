@@ -1,4 +1,7 @@
-x = 10
+import os
+import sys
+
+x = 10    
 
 
 print("Hi")
